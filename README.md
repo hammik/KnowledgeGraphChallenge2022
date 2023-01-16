@@ -1,0 +1,1 @@
+# KnowledgeGraphChallenge2022
